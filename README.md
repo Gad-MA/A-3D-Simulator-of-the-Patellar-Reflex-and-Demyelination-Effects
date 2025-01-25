@@ -7,9 +7,9 @@ A brief description of your Unity project.
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Building the Project](#building-the-project)
+- [Running the Project](#running-the-project)
   - [Running in the Unity Editor](#running-in-the-unity-editor)
   - [Running the Built Project](#running-the-built-project)
-- [Running the Project](#running-the-project)
 
 ## Getting Started
 
@@ -30,6 +30,7 @@ Before you begin, ensure you have the following installed:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    ```
+   
 2. **Open the project in Unity**:
    - Open Unity Hub.
    - Click on `Add` and select the cloned repository folder.
@@ -42,10 +43,13 @@ To build the project, follow these steps:
 
 1. **Open the Build Settings**:
    - Go to `File > Build Settings` in Unity.
+     
 2. **Select the Target Platform**:
    - Choose your target platform (e.g., PC, Mac, Linux Standalone, Android, iOS, etc.).
+     
 3. **Configure Build Settings**:
    - Adjust any platform-specific settings as needed.
+     
 4. **Build the Project**:
    - Click Build and select a folder to save the build.
   
