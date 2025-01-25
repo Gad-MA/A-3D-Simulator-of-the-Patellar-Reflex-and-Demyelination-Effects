@@ -1,4 +1,4 @@
-# Neurons-Simulator
+# A 3D Simulator of the Patellar Reflex and Demyelination Effects
 
 A brief description of your Unity project.
 
