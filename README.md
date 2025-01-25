@@ -53,6 +53,9 @@ To build the project, follow these steps:
 4. **Build the Project**:
    - Click Build and select a folder to save the build.
   
+5. **Adding the Essential Files**:
+   - Copy the `ExternalData` folder from the Unity project folder and paste it in the build folder.
+  
 ## Running the Project
 
 ### Running in the Unity Editor
