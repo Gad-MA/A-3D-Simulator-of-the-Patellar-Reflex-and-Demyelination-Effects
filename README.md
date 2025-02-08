@@ -18,7 +18,7 @@ These instructions will get you a copy of the project up and running on your loc
 Before you begin, ensure you have the following installed:
 
 - **Unity Hub**: [Download Unity Hub](https://unity3d.com/get-unity/download)
-- **Unity Version**: [Specify the Unity version used in the project, e.g., 2020.3.25f1]
+- **Unity Version**: 6000.0.31f1
 - **Git**: [Download Git](https://git-scm.com/)
 - **Python3**: [Download Python3](https://www.python.org/downloads/)
 
