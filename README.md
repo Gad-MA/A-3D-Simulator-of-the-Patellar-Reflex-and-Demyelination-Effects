@@ -1,7 +1,5 @@
 # A 3D Simulator of the Patellar Reflex and Demyelination Effects
 
-A brief description of your Unity project.
-
 ## Table of Contents
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -28,7 +26,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Gad-MA/A-3D-Simulator-of-the-Patellar-Reflex-and-Demyelination-Effects.git
    ```
    
 2. **Open the project in Unity**:
@@ -62,7 +60,7 @@ To build the project, follow these steps:
 
 1. **Open the Main Scene**:
    - Navigate to the Scenes folder in the Project window.
-   - Double-click the main scene file (e.g., MainScene.unity).
+   - Double-click the main scene file (SampleScene.unity).
 
 2. **Press Play**:
    - Click the Play button in the Unity Editor to run the scene.
