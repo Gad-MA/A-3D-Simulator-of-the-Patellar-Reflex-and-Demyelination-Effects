@@ -1,5 +1,9 @@
 # A 3D Simulator of the Patellar Reflex and Demyelination Effects
 
+A brief description
+
+https://gad-ma.github.io/project/patellar-reflex-simulator/images/orientation_github.mp4
+
 ## Table of Contents
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
